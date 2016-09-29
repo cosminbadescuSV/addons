@@ -3,7 +3,7 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
      
-  <Description about="urn:mozilla:extension:test123456@github.com">
+  <Description about="urn:mozilla:extension:adasdasd@adasd.com">
     <em:updates>
       <Seq>
         <li>
@@ -12,10 +12,10 @@
             <em:targetApplication>
               <!-- Firefox -->
               <Description>
-                <em:id>{ec803458-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:id>asdasdasda@asdasda.com</em:id>
                 <em:minVersion>48.0</em:minVersion>
                 <em:maxVersion>*</em:maxVersion>
-                <em:updateLink>https://rawgit.com/cosminbadescuSV/addons/master/test1123.xpi</em:updateLink>
+                <em:updateLink>https://rawgit.com/cosminbadescuSV/addons/master/test22.xpi</em:updateLink>
               </Description>
               
             </em:targetApplication>
